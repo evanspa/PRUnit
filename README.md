@@ -1,6 +1,6 @@
 # PRUnit
 
-<img src="<img src="https://github.com/downloads/evanspa/BasicXSLT/BasicXSLT-logo.jpg" alt="PRUnit logo" align="right" />
+<img src="<img src="https://github.com/downloads/evanspa/PRUnit/prunit-logo.jpg" alt="PRUnit logo" align="right" />
 
 An xunit-style unit test framework for PegaRULES Process Commander (PRPC).
 
