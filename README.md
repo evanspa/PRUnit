@@ -1,7 +1,5 @@
 # PRUnit
 
-<img src="https://github.com/downloads/evanspa/PRUnit/prunit-logo.jpg" alt="PRUnit logo" align="right" />
-
 Written around 2007, PRUnit is an xunit-style unit test framework for PegaRULES Process Commander (PRPC).
 
 PRUnit is a unit testing framework modeled after the xUnit family of testing frameworks for [Pegasystems'](http://www.pega.com) PegaRULES Process Commander (PRPC). PRPC is a development platform created by Pegasystems for building workflow and rules-based BPM applications.
